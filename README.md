@@ -13,7 +13,7 @@
     <img alt="Gitter" src="https://badges.gitter.im/Join%20Chat.svg">
   </a>
   <br>
-  <a href="https://github.com/Shen-Yu/hexo-theme-ayer/releases" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/dwx503772/halftea/releases" target="_blank" rel="noopener noreferrer">
     <img alt="GitHub release" src="https://img.shields.io/badge/release-v1.9-blue.svg">
   </a> 
  <img alt="language" src="https://img.shields.io/badge/language-ejs--stylus-orange.svg">
@@ -40,7 +40,7 @@
 ### Install
 
 ``` bash
-$ git clone https://github.com/Shen-Yu/hexo-theme-ayer.git themes/ayer
+$ git clone https://github.com/dwx503772/halftea.git themes/ayer
 ```
 
 ### Enable
@@ -180,7 +180,7 @@ gitalk:
 # GitHub Ribbons(https://github.blog/2008-12-19-github-ribbons/)
 github: 
   # (Set false if you don't need)
-  url: https://github.com/Shen-Yu/hexo-theme-ayer
+  url: https://github.com/dwx503772/halftea
 
 # fancybox(Use for gallery, set false if you don't need)
 fancybox: true
@@ -303,4 +303,4 @@ Use Tocbot to parse the title tags (h1~h6) in the content and insert the directo
 ---
 
 <br/>
-<a src="https://github.com/Shen-Yu/hexo-theme-ayer">Ayer</a> by <a  href="https://github.com/Shen-Yu">Eric-Shen</a> is licensed under  <a rel="license" href="https://www.mit-license.org/">MIT</a>.
+<a src="https://github.com/dwx503772/halftea">Ayer</a> by <a  href="https://github.com/dwx503772">Eric-Shen</a> is licensed under  <a rel="license" href="https://www.mit-license.org/">MIT</a>.

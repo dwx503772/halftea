@@ -9,7 +9,7 @@
   "source": "source-src/main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shen-Yu/hexo-theme-ayer.git"
+    "url": "git+https://github.com/dwx503772/halftea.git"
   },
   "keywords": [
     "hexo",
@@ -20,7 +20,7 @@
   "author": "Shen-Yu",
   "license": "MIT License",
   "bugs": {
-    "url": "https://github.com/Shen-Yu/hexo-theme-ayer/issues"
+    "url": "https://github.com/dwx503772/halftea/issues"
   },
   "homepage": ".",
   "devDependencies": {
