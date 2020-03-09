@@ -33,7 +33,7 @@
 
 ### [中文说明](https://shen-yu.gitee.io/2019/ayer/)
 
-### [国内镜像](https://gitee.com/shen-yu/hexo-theme-ayer)
+### [国内镜像](https://github.com/dwx503772/halftea)
 
 ![Screenshot](screenshots/hexo-theme-ayer.png)
 
